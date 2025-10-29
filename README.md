@@ -1,0 +1,2 @@
+Paper for the ICIT 2025 conference (Thailand)
+Developed a unified Siamese deep learning framework using the lightweight CoAtNet-0 hybrid convolution-attention architecture (22 million parameters) for high-efficiency face and voice biometric verification. The system demonstrated strong performance in unimodal tasks, achieving 97.78% accuracy (0.4% EER) for face recognition and 97.50% accuracy (2.44% EER) for voice recognition, achieving competitive results while utilizing significantly fewer parameters than current state-of-the-art benchmarks.
